@@ -1069,14 +1069,6 @@ const notebook = {
             },
             {
                 "cellType": "markdown",
-                "code": "## More charts!\r\n\r\nWant to see more charts?\r\n\r\n[Click here to see the charts example](http://open-example=charts.notebook).",
-                "errors": [],
-                "id": "53a712d0-8845-11e9-94c3-054beaa0f30f",
-                "lastEvaluationDate": "2019-06-06T20:25:48.286+10:00",
-                "output": []
-            },
-            {
-                "cellType": "markdown",
                 "code": "## More coming soon!\r\n\r\nMore visualization are coming in future editions of Data-Forge Notebook, for example:\r\n- Geographic data\r\n- Images\r\n- Node.js buffers\r\n- Vectors, matrices and maths formulas\r\n- Colors\r\n\r\n[Email](mailto:support@data-forge-notebook.com) and let me know what else could be added!",
                 "errors": [],
                 "id": "8864e670-f3cd-11e9-97b7-a975ba8f6456",
