@@ -1069,7 +1069,7 @@ const notebook = {
             },
             {
                 "cellType": "markdown",
-                "code": "## More coming soon!\r\n\r\nMore visualization are coming in future editions of Data-Forge Notebook, for example:\r\n- Images\r\n- Node.js buffers\r\n- Vectors, matrices and maths formulas\r\n- Colors\r\n\r\n[Email](mailto:support@data-forge-notebook.com) and let me know what else could be added!",
+                "code": "## More coming soon!\r\n\r\nMore visualization are coming in future editions of Data-Forge Notebook, for example:\r\n\r\n- Images\r\n- Node.js buffers\r\n- Vectors, matrices and maths formulas\r\n- Colors\r\n\r\n[Email](mailto:support@data-forge-notebook.com) and let me know what else could be added!",
                 "errors": [],
                 "id": "8864e670-f3cd-11e9-97b7-a975ba8f6456",
                 "lastEvaluationDate": "2019-10-21T16:48:16.310+10:00",
