@@ -3,7 +3,7 @@ const notebook = {
         "cells": [
             {
                 "cellType": "markdown",
-                "code": "# Examples of visualization\r\n\r\nThere's many ways to visualize your data in Data-Forge Notebook, lets look at a few here.",
+                "code": "# Examples of visualization\r\n\r\nThere's many ways to visualize your data in Data-Forge Notebook, lets look at a few here.\r\n\r\n[Click here to see the markdown version of this notebook.](https://github.com/data-forge-notebook/wiki/wiki/visualizing-data)",
                 "errors": [],
                 "id": "d0647090-2e9c-11e9-9f0a-97b474081a71",
                 "lastEvaluationDate": "2019-02-12T18:06:37.479+10:00",
